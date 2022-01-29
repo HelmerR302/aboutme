@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Helmer.w
+- 👋 Hi, I’m @Helmer.R
 - 👀 I’m a marketing specialist with 3-year experience.
 - 🌱 I’m currently practicing web development (html css bootstrap javascript), and you can find my practicing works on the page.
 - 📫 I'm more than excited to join dev community! 
